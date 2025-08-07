@@ -18,7 +18,13 @@ This model helps real estate brokers to remove the workload of predicting house 
 3. MatPlotLib
 4. Seaborn
 5. Scikit-Learn
+## 📃 Data sources
+Ames Housing Data Set - Kaggle
+## ⛔ Evaluation Metrics
+1. Root Mean Squared Error (RMSE)
+2. Mean Squared Error (MSE)
 ## Author
-Name : Sanidhya Jain
-LinkedIn : https://www.linkedin.com/in/sanidhya-jain-650427236/
-Instagram : https://www.instagram.com/saani_.j/
+-Name : Sanidhya Jain
+-LinkedIn : https://www.linkedin.com/in/sanidhya-jain-650427236/
+-Instagram : https://www.instagram.com/saani_.j/
+
